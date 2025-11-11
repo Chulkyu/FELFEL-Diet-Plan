@@ -1,7 +1,0 @@
-{
-  "name": "FELFEL Diet Planner",
-  "description": "An intelligent diet management app that calculates your nutritional needs, analyzes food labels from photos, tracks your intake with visual graphs, and recommends meals tailored to your goals.",
-  "requestFramePermissions": [
-    "camera"
-  ]
-}
